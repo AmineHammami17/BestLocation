@@ -3,10 +3,15 @@ Best Location is an Android app that allows users to save, view, and share their
 
 Features 🚀
 Save Locations: Store and access the positions of your friends.
+
 View on Map: Easily visualize locations on a map.
+
 SMS Integration: Send location via SMS.
+
 Location Permissions: Requires GPS to capture and view precise locations.
+
 Update Position: Update the position of a certain user in real time.
+
 Screenshots 📸
 
 Technologies ⚙️
