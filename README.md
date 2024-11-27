@@ -1,4 +1,5 @@
 Best Location 📍
+
 Best Location is an Android app that allows users to save, view, and share their locations with others. It integrates Google Maps for visualizing positions and allows SMS functionality to send coordinates.
 
 Features 🚀
