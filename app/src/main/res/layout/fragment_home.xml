@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.home.HomeFragment" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recherche de position d'amis" />
+
+    <EditText
+        android:id="@+id/editphone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Numero"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btnsms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Envoyer Msg" />
+
+    <Button
+        android:id="@+id/btnOpenPositionActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Position" />
+
+    <Button
+        android:id="@+id/btnShowSavedPositions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Saved Positions" />
+
+</LinearLayout>
